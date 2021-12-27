@@ -1,11 +1,11 @@
 {
   "id": "sirdrug.forcedeth",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1c/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/sirdrug/ext/main/rpext-index.json",
   "info": {
-    "name": "atl1c",
-    "description": "Adds Qualcomm Atheros 100/1000M Ethernet Network Driver Support",
-    "author_url": "https://github.com/pocopico",
-    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/atl1c",
+    "name": "forcedeth",
+    "description": "Adds NVIDIA nforce Network Driver Support",
+    "author_url": "https://github.com/sirdrug",
+    "packer_url": "https://github.comp-ext/tree/main/atl1c",
     "help_url": "<todo>"
   },
   "releases": {
