@@ -1,0 +1,27 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "forcedeth.tgz",
+      "url": "https://raw.githubusercontent.com/sirdrug/ext/main/forcedeth.tgz",
+      "sha256": "add79d216ee54578a1eff2101973e3cd921df7b82e1aaa926a59a3341e56ae0a",
+      "packed": true
+    },
+    {
+      "name": "forcedeth.sh",
+      "url": "https://raw.githubusercontent.com/sirdrug/ext/main/forcedeth.sh",
+      "sha256": "f298ed7a7e9ca172d59286e41fba90c4f97be16326aa322a034f2f4c0b0024cc",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "forcedeth.ko": ""
+  },
+
+    "scripts": {
+    "on_boot": "forcedeth.sh"
+  }
+
+}
