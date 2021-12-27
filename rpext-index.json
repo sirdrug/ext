@@ -5,15 +5,10 @@
     "name": "forcedeth",
     "description": "Adds NVIDIA nforce Network Driver Support",
     "author_url": "https://github.com/sirdrug",
-    "packer_url": "https://github.comp-ext/tree/main/atl1c",
+    "packer_url": "https://github.com/sirdrug/ext",
     "help_url": "<todo>"
   },
   "releases": {
-    "ds3615xs_25556": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1c/releases/ds3615xs_25556.json",
-    "ds3615xs_41222": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1c/releases/ds3615xs_41222.json",
-    "ds3615xs_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1c/releases/ds3615xs_42218.json",
-    "ds918p_25556": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1c/releases/ds918p_25556.json",
-    "ds918p_41890": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1c/releases/ds918p_41890.json",
-    "ds918p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1c/releases/ds918p_42218.json"
+    "ds918p_42218": "https://raw.githubusercontent.com/sirdrug/ext/main/rpext-index.json"
   }
 }
