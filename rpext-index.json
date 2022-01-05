@@ -9,7 +9,7 @@
     "help_url": "<todo>"
   },
   "releases": {
-    "ds918p_42218": "https://raw.githubusercontent.com/sirdrug/ext/main/forcedeth.json"
+    "ds918p_42218": "https://raw.githubusercontent.com/sirdrug/ext/main/forcedeth.json",
     "ds918p_25556": "https://raw.githubusercontent.com/sirdrug/ext/main/forcedeth.json"
   }
 }
